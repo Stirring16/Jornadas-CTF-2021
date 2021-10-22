@@ -129,7 +129,7 @@ wrote extracted data to "secret.txt".
 
 Cool, 1 đống binary, làm gì tiếp đây.
 
-À hint từ metadata  `Denso Wave`, ta có thể chuyển convert đống binary này thành một mã QRcode.
+À hint từ metadata  `Denso Wave`, ta có thể chuyển convert đống binary này thành một mã QRcode (https://bahamas10.github.io/binary-to-qrcode/)
 
 ```
  from PIL import Image
